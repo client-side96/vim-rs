@@ -24,3 +24,8 @@ of a terminal text editor by building one from scratch.
 
 - [ ] Showing line numbers
 
+## Bonus Goals
+
+- [ ] Separation of Normal and Insert mode
+
+- [ ] Basic commands to save and quit (`:w`, `:q`)
